@@ -74,7 +74,8 @@ nav = [
 [project.theme]
 
 # A changer en "classic" pour retrouver le thème de Material pour MkDocs.
-variant = "modern"
+# variant = "modern"
+variant = "classic"
 
 # Zensical allows you to override specific blocks, partials, or whole
 # templates as well as to define your own templates. To do this, uncomment
