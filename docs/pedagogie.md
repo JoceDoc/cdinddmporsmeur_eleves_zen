@@ -563,5 +563,3 @@ ___
     
 
 
-
-<!-- [def]: ./images/pedagogie/carte_presse_regionale.png "Page d'accueil kiosko.net" -->
